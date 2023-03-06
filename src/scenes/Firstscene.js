@@ -33,7 +33,7 @@ class Firstscene extends Phaser.Scene {
         this.load.path = './assets/';
 
         // LOAD IMAGES AND SPRITES
-        this.load.image('background', 'backgrounds/background.png')
+        this.load.image('background', 'backgrounds/ual.jpg')
             .image("bullet", "sprites/bullet.png")
             .image("virus", "sprites/virus.png")
             .image("bacterium", "sprites/bacterium.png")
